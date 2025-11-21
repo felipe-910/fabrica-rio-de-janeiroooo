@@ -1,0 +1,20 @@
+{
+    "name": "Refúgio Doce",
+    "short_name": "Refúgio",
+    "start_url": "./login.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "icons": [
+        {
+            "src": "./WhatsAppImage2025-11-20at16.41.15(1).jpeg",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "./WhatsAppImage2025-11-20at16.41.15(1).jpeg",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
